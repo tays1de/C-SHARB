@@ -1,0 +1,9 @@
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\bin\Debug\Lab1(3).exe.config
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\bin\Debug\Lab1(3).exe
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\bin\Debug\Lab1(3).pdb
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\obj\Debug\Lab1(3).csprojAssemblyReference.cache
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\obj\Debug\Lab1_3_.Form1.resources
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\obj\Debug\Lab1_3_.Properties.Resources.resources
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\obj\Debug\Lab1(3).csproj.GenerateResource.cache
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\obj\Debug\Lab1(3).exe
+D:\4 semestr\Texnology\Lab1(3)\Lab1(3)\obj\Debug\Lab1(3).pdb
